@@ -1,4 +1,4 @@
 linnworks-l4
 ============
 
-Package for Linnworks API
+Laravel Package for Linnworks API
